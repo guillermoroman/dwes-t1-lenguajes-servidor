@@ -1,0 +1,37 @@
+# Java
+
+## Descripción
+Java es un lenguaje de programación y una plataforma informática que Sun Microsystems lanzó por primera vez en 1995. Es un lenguaje basado en clases y orientado a objetos, diseñado para ser portátil, lo que significa que el código Java puede ejecutarse en una amplia variedad de hardware y sistemas operativos. Java es ampliamente utilizado para el desarrollo de aplicaciones de nivel empresarial, aplicaciones móviles, videojuegos y otros tipos de software. Es conocido por su filosofía de "escribir una vez, ejecutar en cualquier lugar", ya que el código Java puede compilarse para ejecutarse en cualquier plataforma que tenga instalada una máquina virtual Java (JVM).
+
+## Usos comunes
+Java es un lenguaje de programación universal muy utilizado para crear diversos tipos de aplicaciones informáticas. Algunos de sus usos incluyen:
+
+- **Aplicaciones de nivel empresarial**: Sistemas de gestión de relaciones con los clientes, sistemas de planificación de recursos empresariales y sistemas de gestión de la cadena de suministro.
+- **Aplicaciones móviles**: Desarrollo de aplicaciones para Android.
+- **Aplicaciones web**: Creación de servidores web y servidores de aplicaciones.
+- **Juegos**: Desarrollo de videojuegos.
+- **Aplicaciones científicas y financieras**: Utilizadas en diversos sectores para cálculos y análisis complejos.
+
+## Características
+- **Programación orientada a objetos**: Basado en objetos, clases y herencia, facilitando la creación de código modular y reutilizable.
+  
+- **Independencia de la plataforma**: El código se compila en un formato intermedio (bytecode) que puede ejecutarse en cualquier plataforma con una JVM instalada.
+
+- **Gestión de memoria**: Funciones automáticas de gestión de memoria y recogida de basura, ayudando a evitar fugas de memoria.
+
+- **Multihilo**: Permite la ejecución simultánea de varios hilos de ejecución en un mismo programa.
+
+- **Gestión de excepciones**: Un mecanismo integrado que facilita la gestión de errores y excepciones en el código.
+
+- **Seguridad**: Diseñado con características de seguridad como Java sandbox y un gestor de seguridad que aplica políticas de seguridad.
+
+- **API y bibliotecas**: Cuenta con una rica API y vastas bibliotecas de código abierto que proporcionan a los desarrolladores amplias funcionalidades.
+
+- **Comunidad y ecosistema**: Una comunidad activa y amplia, con numerosos recursos, tutoriales y foros disponibles para ayudar a los desarrolladores.
+
+## Ejemplos de uso (Web o servicios que utilicen Java en el back-end)
+- **LinkedIn**
+- **Netflix**
+- **X**
+- **eBay**
+- **Eclipse**

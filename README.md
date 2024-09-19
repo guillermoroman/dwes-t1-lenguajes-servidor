@@ -4,7 +4,7 @@
 PHP es lo peor
 
 ### Node.JS
-De eso nada, Node rulez
+Node es genial
 
 ### Python
 

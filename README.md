@@ -4,6 +4,7 @@
 PHP es el mejor porque nos da clase Guille
 
 ### Node.JS
+De eso nada, Node rulez
 
 ### Python
 

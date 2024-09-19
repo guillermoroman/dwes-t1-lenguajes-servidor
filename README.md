@@ -1,7 +1,7 @@
 # dwes-t1-lenguajes-servidor
 
 ### PHP
-PHP es el mejor porque si
+PHP es lo peor
 
 ### Node.JS
 De eso nada, Node rulez

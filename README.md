@@ -44,7 +44,7 @@ Java es un lenguaje de programación universal muy utilizado para crear diversos
 - **Netflix**
 - **X**
 - **eBay**
-- **Eclipse**
+- **Minecraft**
   
 ### C#
 

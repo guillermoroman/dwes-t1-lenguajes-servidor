@@ -1,10 +1,109 @@
 # dwes-t1-lenguajes-servidor
 
-### PHP
-PHP es el mejor porque si
+### PHP -Omar,Pablo,Aitor-
+
+### Descripcion: 
+PHP, que se originó en 1994, fue creado por Rasmus Lerdorf como un conjunto de herramientas para gestionar su propia página web. Inicialmente llamado "Personal Home Page", permitía realizar tareas simples como rastrear visitas y gestionar formularios.
+Con el tiempo, Lerdorf amplió el proyecto y lanzó PHP 3 en 1997, lo que marcó un hito importante en su desarrollo. Esta versión mejoró la funcionalidad del lenguaje y atrajo a una comunidad más amplia de desarrolladores.
+Desde entonces, PHP ha evolucionado continuamente y se ha convertido en uno de los lenguajes más utilizados para el desarrollo web, gracias a su capacidad para crear contenido dinámico, interactuar con bases de datos y su facilidad de integración con diversas tecnologías. Su código abierto y el apoyo de una gran comunidad han contribuido a su popularidad duradera en la industria.
+ 
+
+### Usos comunes:
+ 
+Desarrollo web: Crear páginas dinámicas y aplicaciones web.
+Gestión de bases de datos: Interactuar con bases de datos como MySQL.
+Sistemas de gestión de contenido (CMS): Plataformas como WordPress y Joomla están construidas en PHP.
+Generación de formularios: Manejar datos de formularios y validación.
+APIs: Crear servicios web y APIs RESTful.
+E-commerce: Desarrollar tiendas en línea y plataformas de comercio.
+ 
+### Caracteristicas:
+ 
+Sencillo de aprender: Tiene una sintaxis fácil, lo que lo hace accesible para principiantes.
+Lenguaje del lado del servidor: Se ejecuta en el servidor y genera HTML que se envía al navegador.
+Compatible con múltiples bases de datos: Soporta diversas bases de datos como MySQL, PostgreSQL, y SQLite.
+Gran comunidad y soporte: Amplia documentación y una comunidad activa que proporciona recursos y librerías.
+Interoperabilidad: Se puede integrar fácilmente con HTML, JavaScript y CSS.
+Flexible y extensible: Permite la creación de extensiones y la integración con otros lenguajes.
+Manejo de sesiones y cookies: Facilita la gestión de sesiones de usuario y almacenamiento de cookies.
+Código abierto: Es gratuito y está disponible para su modificación y distribución.
+
+### Ejemplos de uso
+ 
+Sistemas de Gestión de Contenido (CMS): PHP se utiliza en plataformas como WordPress, Joomla y Drupal, permitiendo a los usuarios crear y gestionar sitios web sin necesidad de conocimientos técnicos profundos.
+E-commerce: Muchas tiendas en línea, como Magento y WooCommerce, están construidas con PHP, facilitando la gestión de productos, pagos y pedidos.
+Aplicaciones Web Dinámicas: PHP se usa para crear aplicaciones que requieren interacción del usuario, como foros, redes sociales y plataformas de colaboración.
+Formularios de Contacto: PHP puede procesar datos de formularios, enviando correos electrónicos o guardando información en bases de datos.
+Sistemas de Autenticación: Muchas aplicaciones web utilizan PHP para gestionar el registro, inicio de sesión y recuperación de contraseñas de usuarios.
+Generación de Contenido Dinámico: PHP permite generar páginas web personalizadas en función de la información del usuario, como recomendaciones de productos basadas en el historial de navegación.
+APIs RESTful: PHP se puede utilizar para crear APIs que permiten la comunicación entre diferentes aplicaciones, facilitando el intercambio de datos.
+Manejo de Archivos: PHP permite la manipulación de archivos en el servidor, como subir, leer o escribir datos en archivos de texto.
+Sistemas de Reservas: Muchas aplicaciones de reservas de hoteles y restaurantes utilizan PHP para gestionar la disponibilidad y las reservas de clientes.
+Dashboards y Paneles de Control: PHP se utiliza para crear interfaces que muestran datos analíticos y estadísticas en tiempo real.
+
+### Casos de Uso 
+1. Meta Facebook
+2. Wikipedia, the Free Encyclopedia
+3. Etsy (*)
+
 
 ### Node.JS
-Hakuna Matata
+
+## Autores
+- Jorge Junquera Casarreal
+- Samuel Moreira García
+
+## Descripción 
+Node.js es un **entorno de tiempo de ejecución de JavaScript multiplataforma y de código abierto** utilizado para la creación de sitios web dinámicos, creado por los mismo desarrolladores que JavaScript para llevarlo más allá que su utilización en el lado del cliente, permitiendo usarlo en el entorno del servidor. Este entorno permite escribir programas del lado del cliente y del servidor sin tener que aprender lenguajes diferentes.
+
+## Usos comunes 
+Node.js posee una gran cantidad de usos debido a su versatilidad ya que fue creado por los mismos desarrolladores de JavaScript para poder ejecutarlo fuera del entorno web mediante el motor V8 de Chrome por lo que, a parte de servir para crear servidores web, los agiliza y los capacita para trabajar con otros lenguajes de secuencia como es el caso de Python situando a Node.js como una excelente opción para grandes proyectos o que necesiten ser de gran rapidez.
+Por otro lado, los principales usos comunes de este entorno son el **chat en tiempo real** ya que mediante su tecnología push sobre los sockets web permite una interacción entre los servidores y clientes, también el **streaming de datos** gracias a los módulos que tiene incorporados que permiten soportar el flujo de datos, también entre sus usos más comúnes cabe destacar, a parte de los que se han mencionado anteriormente:
+- **Juegos real-time**
+- **Aplicaciones de recolección de datos**
+- **Aplicaciones de alto tráfico como es el caso de Twitter**
+
+## Origen
+Su origen se remonta al 29 de mayo del año 2009 cuando Ryan Dahl, su creador, lo presentó oficialmente definido como un entorno de tiempo de ejecución de JavaScript que se caracterizaba por ser de código abierto en el lado del servidor, en sus inicios funcionaba exclusivamente en Linux y Mac OS X.
+
+## Nivel de adopción
+Con el paso de los años, y cada vez más, Node.js está adquiriendo mucha popularidad ya que, hoy en día, el desarrollo web es muy popular y se utiliza en la mayoría de páginas web por no decir en todas, y su lenguaje principal es JavaScript dando gran importancia a Node.js que básicamente es su entorno principal, por lo que gracias a la llegada de Node.js permite usar Javascript también en el backend aparte del frontend, y facilitando mucho el desarrollo web ya que se puede realizar, actualmente, todo con Javascript.
+
+## Características 
+Las principales características por las que Node.js está siendo cada vez más popular con el paso de los años son: 
+- Posee una **gran velocidad** gracias al motor de JavaScript V8 de Google Chrome.
+- **Sin Búfer**, es decir, que todas las aplicaciones de Node.js nunca almacenan los datos en búfer, si no que los generan en chunks.
+- **Asíncrono y controlado por eventos**, por lo que no se espera que una API devuelva los datos y también posee un mecanismo de notificación de eventos.
+- Un **subproceso escalable** ya que Node.js usa un modelo de un solo subproceso con un bucle de eventos, por lo que, gracias a éste el servidor puede responder sin ningún tipo de bloqueo, de ahí a que sea asíncrono, convirtiendo a Node.js en un entorno mucho más escalable en comparación con los servidores tradicionales como HTTP de Apache.
+
+## Ventajas e inconvenientes
+Con respecto a las ventajas, como se comentó en el apartado de características se destacan principalmente:
+- **Eficiencia y escalabilidad** permitiéndole manejar una alta concurrencia y un elevado numero de solicitudes a la vez de manera muy eficiente.
+- **Unificación del lenguaje** ya que se puede utilizar Javascript tanto del lado del servidor (backend) como del lado del cliente (frontend) mejorando su productividad.
+- **Amplio número de módulos** ya que Node.js cuenta con un elevado número de respositorios de paquetes y módulos facilitando la reutilización de código y, por ende, acelerando el desarrollo de las aplicaciones.
+- **Comunidad activa** debido a la gran fama que ha adquirido este entorno, podemos encontrar en la web gran cantidad de recursos que nos pueden ayudar en caso de necesitar encontrar cualquier cosa o necesitar ayuda.
+
+Por otro lado, no todo son cosas buenas, también posee algunos inconvenientes como es el caso de:
+- **Uso intensivo de la CPU** ya que utiliza un solo hilo de ejecución por lo que puede perjudicar en el rendimiento de la aplicación en el caso de que ésta realice operaciones intensivas.
+- **Madurez de algunas bibliotecas** ya que posee algunas que no son tan estables como el resto en comparación con otros frameworks más famosos por lo que debemos investigar realmente cada biblioteca antes de utilizarla en el desarrollo de nuestra aplicación.
+- **Curva de aprendizaje** debido a que, si no estamos acostumbrados o no conocemos el lenguaje Javascript se nos complicará mucho el desarrollo de la aplicación y, tardaremos bastante tiempo en poder aprenderlo por lo que, al principio nos costará entender las funcionalidades y características de Node.js
+
+## Ejemplos de uso 
+Entre las empresas más notorias y conocidas que utilizan este entorno son:
+- **Netflix**
+- **Uber**
+- **Walmart**
+- **NASA**
+- **PayPal o Ebay entre otras.**
+
+## Bibliografía
+- (https://nodejs.org/)
+- (https://desarrolloweb.com/articulos/caracteristicas-nodejs.html)
+- (https://ifgeekthen.nttdata.com/s/post/que-es-node-js-y-primeros-pasos-MCW4YDTW2NVVFJVPFT4EJSCSTE5Y?language=es)
+- (https://blog.soyhenry.com/que-es-node-js-y-para-que-se-utiliza/)
+- (https://www.itdo.com/blog/que-es-node-js-y-para-que-sirve/)
+- (https://www.solbyte.com/blog/nodejs/)
+- (https://www.luisllamas.es/historia-de-nodejs/#:~:text=El%2027%20de%20mayo%20de,Linux%20y%20Mac%20OS%20X.&text=Adem%C3%A1s%2C%20lo%20combinaba%20con%20un,E%2FS%20de%20bajo%20nivel.)
 
 ### Python
 
@@ -73,6 +172,36 @@ A partir, de aquí se podrían usar diversos métodos de la librería de pygame 
    
 ### Ruby
 
+# participantes:
+- Alejandro ruisanchez
+- Alexis gonzalez
+- Bruno perez
+
+DESCRIPCION
+Ruby fue creado por el programador japonés Yukihiro «Matz» Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995. Combina una sintaxis inspirada en Python y Perl con características a Smalltalk. El lenguaje Ruby se utiliza principalmente en el desarrollo de aplicaciones web, pero también se puede utilizar para desarrollar otro tipo de aplicaciones de software, como veremos más adelante. Este lenguaje está disponible en plataformas como Windows, Linux y muchas otras, considerándose multiplataforma. Estar orientado a objetivos significa unciona con datos que el usuario creará en función de sus propias necesidades La simplicidad y la productividad son el foco de este lenguaje, por lo que aprender a programar en Ruby puede ser una gran opción para aquellos que buscan programar fácilmente
+
+USOS COMUNES
+Permite desarrollar distintos tipos de aplicaciones, a saber: aplicaciones de servicio web, clientes de correo electrónico, procesamiento de datos y aplicaciones de red. El lenguaje Ruby puede ser muy útil, ya que este lenguaje se puede utilizar para crear varios programas para desktop. Cuenta con dos frameworks:
+
+Ruby on Rails muy popular que sirve para desarrollar aplicaciones web.
+RubyGems es el sistema de empaquetado de Ruby. Facilita la distribución, instalación y actualización de aplicaciones. Se compone de fragmentos de códigos, que forman bibliotecas.
+CARACTERISTICAS
+Es un lenguaje de propósito general, es decir, con Ruby se pueden desarrollar todo tipo de aplicaciones diferentes: aplicaciones de servicio web, clientes de correo electrónico, procesamiento de datos en Backend, aplicaciones de red, etc.
+Es un lenguaje interpretado, es decir, no es compilado, se necesita que el intérprete,evalué el código y lo traduzca en lenguaje de máquina entendible por un ordenador.
+Es dinámico y flexible
+Es de software libre (Open Source) y multiplataforma, se puede descargar totalmente gratis de la página oficial y ejecutarlo en diferentes sistemas operativos.
+100% Orientado a Objetos
+DESVENTAJAS
+Rendimiento: Ruby es más lento que muchos otros lenguajes de programación. Su naturaleza interpretada y la flexibilidad que ofrece a menudo resultan en una ejecución más lenta en comparación con lenguajes compilados. – Escalabilidad: Las aplicaciones grandes pueden volverse difíciles de mantener. A medida que el tamaño y la complejidad de la aplicación crecen, puede ser un desafío mantener un código limpio y eficiente. – Menor uso en empresas: Menos demanda en comparación con lenguajes como Java o Python en entornos empresariales. Aunque Ruby es popular en startups y pequeñas empresas, no es tan ampliamente adoptado en grandes corporaciones.
+VENTAJAS
+Sintaxis sencilla: Ruby tiene una sintaxis natural y fácil de leer. Está diseñado para ser intuitivo, lo que reduce la cantidad de código necesario para realizar tareas y hace que el desarrollo sea más eficiente. – Productividad: Permite un desarrollo rápido de aplicaciones web, lo que acelera el proceso de desarrollo y reduce la cantidad de código duplicado. – Comunidad: Una comunidad activa que contribuye con bibliotecas y recursos. La comunidad de Ruby es conocida por ser amigable y colaborativa, proporcionando numerosos recursos de aprendizaje y soporte. – Flexibilidad: Es muy flexible y permite a los desarrolladores modificar partes del lenguaje según sus necesidades. Ruby permite una programación avanzada, lo que facilita la creación de código dinámico y reutilizable.
+EJEMPLOS DE USO
+twitter
+airbnb
+hulu
+grupon
+soundcloud
+github
 ### Java
 
 ### C#
@@ -132,6 +261,7 @@ Este código muestra cómo crear una clase Persona y cómo invocar un método pa
 ![logo lenguaje de programación GO](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/140px-Go_Logo_Blue.svg.png)
 
 [Sitio web oificial](https://go.dev/)
+#### Autores: *David Fraga, Guillermo Méndez-Trelles y Rodrigo Medina*
 
 ***
 
@@ -266,6 +396,7 @@ Por ejemplo, permite detectar errores en la sintaxis mientras compilamos el codi
 
 
 
+
 ## Rust
 
 
@@ -310,4 +441,5 @@ Sus usos comunes son los siguientes:
 ### Imagen
 
 ![imagen rust](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7N9l-sFfKei3vqYfLtcmweMJrDIiFxcZ1g&s)
+
 

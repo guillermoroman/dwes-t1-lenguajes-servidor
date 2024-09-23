@@ -307,6 +307,7 @@ Sus usos comunes son los siguientes:
   Algunas de las empresas que los esta usando son Meta, amazon web Services y Google(en Android y en Google Cloud).
   Tambien otras empresas que utilizan este lenguaje en produccion son Firefox, Dropbox y Cloudfare
    
-###Imagen
-![imagen rust](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7N9l-sFfKei3vqYfLtcmweMJrDIiFxcZ1g&s){width=width height=height}
+### Imagen
+
+![imagen rust](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7N9l-sFfKei3vqYfLtcmweMJrDIiFxcZ1g&s)
 

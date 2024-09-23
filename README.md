@@ -396,5 +396,50 @@ Por ejemplo, permite detectar errores en la sintaxis mientras compilamos el codi
 
 
 
-### Rust
+
+## Rust
+
+
+-Integrantes del grupo: 
+   -Juan Garcia Rodriguez
+   -Alejandro Riesgo Alvarez
+   -Daniel Suarez Moran
+
+### Origen
+Hoare era un programador informático de 29 años que trabajaba para Mozilla. Decidió desarrollar un lenguaje con el que evitar los fallos por problemas de memoria debido a la experiencia que tuvo con el fallo del ascensor de su oficina.
+
+Empezó solo a desarrollar este lenguaje enseñándoselo a amigos y compañeros de trabajo, algunos se veían interesados en el proyecto pero la mayoría de ellos le decían que no llegaría a gran cosa. Mozilla decide patrocinar oficialmente este proyecto en el año 2009. El lenguaje sería de código abierto y solo disponible para las personas que lo crearan, pero Mozilla estaba dispuesta a impulsarlo pagando a sus ingenieros.
+
+Tras el hype debido a que Mozilla se interesase por el proyecto, a principios de 2010, Rust atraía a voluntarios de todo el mundo y de todos los rincones de la tecnología, algunos incluso trabajaban para grandes empresas tecnológicas.
+
+La primera versión estable de Rust fue creada en el año 2015, después de eso fue cogiendo mucha popularidad y ganándose el cariño de los programadores que usan este lenguaje, siendo uno de los más amados por los programadores.
+
+En la actualidad Rust se encuentra en el proceso de madurar como lenguaje, está siendo usado cada vez en más sectores y ganando popularidad.
+ 
+### Usos Comunes
+Rust es un lenguaje creado por mozilla y diseñado para el desarrollo de sistemas informaticos.
+Sus usos comunes son los siguientes:
+  1. Herramienta CLI(49%)
+  2. Programacion de sistemas(38%)
+  3. Desarrollo web (33%)
+### Ventajas 
+  1. Excelente seguridad de memoria, lo cual hace que Rust sea un lenguaje ideal para aplicaciones críticas en términos de seguridad.
+  2. Es un lenguaje de alto rendimiento. Los programas escritos en Rust se ejecutan mucho mas rapido que los proramas escritos en otros lenguajes.
+  3. Es un lenguaje de proposito general, lo que significa que se puede usar para casi cualquier cosa. Esto lo hace ideal para proyectos de todos los tamaños, desde pequeños proyectos personales hasta grandes proyectos empresariales.
+  4. Es un lenguaje de programacion moderno, lo que significa que esta diseñado para ser facil de aprender y usar.
+
+### Desventajas
+  1. Es un lenguaje de programacion relativamente nuevo, lo que significa que hay una curva de aprendizaje para los programadores principiantes
+  2. Al ser un lenguaje de proposito general los lenguajes especificos pueden tener ciertas ventajas en los ambitos para los que han sido diseñados
+  3. Rust es un lenguaje de programacion de alto nivel, lo que significa que los programas escritos en Rus pueden ser mas dificiles de depurar que los programas escritos en lenguajes de bajo nivel
+ 
+### Ejemplos de uso
+  Rust es un lenguaje que esta en auge entre las empresas tecnologicas aumentando su uso en el sector de manera exponencial en los ultimos años
+  Algunas de las empresas que los esta usando son Meta, amazon web Services y Google(en Android y en Google Cloud).
+  Tambien otras empresas que utilizan este lenguaje en produccion son Firefox, Dropbox y Cloudfare
+   
+### Imagen
+
+![imagen rust](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7N9l-sFfKei3vqYfLtcmweMJrDIiFxcZ1g&s)
+
 

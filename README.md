@@ -8,43 +8,80 @@
 
 ### Ruby
 
-# Java
+# **Java**
 
-## Descripción
-Java es un lenguaje de programación y una plataforma informática que Sun Microsystems lanzó por primera vez en 1995. Es un lenguaje basado en clases y orientado a objetos, diseñado para ser portátil, lo que significa que el código Java puede ejecutarse en una amplia variedad de hardware y sistemas operativos. Java es ampliamente utilizado para el desarrollo de aplicaciones de nivel empresarial, aplicaciones móviles, videojuegos y otros tipos de software. Es conocido por su filosofía de "escribir una vez, ejecutar en cualquier lugar", ya que el código Java puede compilarse para ejecutarse en cualquier plataforma que tenga instalada una máquina virtual Java (JVM).
+**Alejandro Santos Villabona**  
+**Diego Rivero Entrialgo**  
+**Héctor Fernández Méndez**
 
-## Usos comunes
-Java es un lenguaje de programación universal muy utilizado para crear diversos tipos de aplicaciones informáticas. Algunos de sus usos incluyen:
+---
 
-- **Aplicaciones de nivel empresarial**: Sistemas de gestión de relaciones con los clientes, sistemas de planificación de recursos empresariales y sistemas de gestión de la cadena de suministro.
-- **Aplicaciones móviles**: Desarrollo de aplicaciones para Android.
-- **Aplicaciones web**: Creación de servidores web y servidores de aplicaciones.
-- **Juegos**: Desarrollo de videojuegos.
-- **Aplicaciones científicas y financieras**: Utilizadas en diversos sectores para cálculos y análisis complejos.
+## **Origen**
+Java es un lenguaje de programación y una plataforma informática lanzada por Sun Microsystems en 1995. Está basado en clases y orientado a objetos, diseñado para ser portátil. Esto significa que el código Java puede ejecutarse en una amplia variedad de hardware y sistemas operativos. Es ampliamente utilizado en el desarrollo de aplicaciones de nivel empresarial, aplicaciones móviles, videojuegos y otros tipos de software. 
 
-## Características
-- **Programación orientada a objetos**: Basado en objetos, clases y herencia, facilitando la creación de código modular y reutilizable.
+Una de sus características más conocidas es su filosofía de **"escribir una vez, ejecutar en cualquier lugar"**, ya que el código Java puede compilarse y ejecutarse en cualquier plataforma que soporte una **Máquina Virtual Java (JVM)**.
+
+---
+
+## **Popularización y Nivel de Adopción**
+
+- **Adopción por grandes empresas**: Java fue adoptado por gigantes de la informática como **IBM** y **Oracle**.
+- **Independencia de plataforma**: Gracias a la **JVM**, Java puede ejecutarse en cualquier sistema operativo, lo que facilita su uso y popularización.
+- **Amplio soporte comunitario**: La comunidad de desarrolladores Java es sólida, proporcionando recursos y soporte.
   
-- **Independencia de la plataforma**: El código se compila en un formato intermedio (bytecode) que puede ejecutarse en cualquier plataforma con una JVM instalada.
+Java experimentó un rápido crecimiento a finales de los años 90 y alcanzó su máximo nivel de adopción alrededor de 2015, con más del 70% de uso en la industria. A pesar de que su adopción ha disminuido gradualmente desde entonces, sigue siendo un lenguaje ampliamente utilizado.
 
-- **Gestión de memoria**: Funciones automáticas de gestión de memoria y recogida de basura, ayudando a evitar fugas de memoria.
+---
 
-- **Multihilo**: Permite la ejecución simultánea de varios hilos de ejecución en un mismo programa.
+## **Características de Java**
 
-- **Gestión de excepciones**: Un mecanismo integrado que facilita la gestión de errores y excepciones en el código.
+- **Programación orientada a objetos**: Basado en clases y orientado a objetos, lo que permite código modular, reutilizable y fácil de mantener.
+- **Independencia de plataforma**: El código de Java se compila en **bytecode**, que puede ejecutarse en cualquier plataforma con JVM.
+- **Gestión automática de memoria**: Java cuenta con un recolector de basura que ayuda a liberar memoria automáticamente.
+- **Multihilo**: Soporte para ejecutar varios hilos de ejecución simultáneamente.
+- **Gestión de excepciones**: Mecanismos integrados para la gestión eficiente de errores y excepciones.
+- **Seguridad**: Java está diseñado con un enfoque en la seguridad, con características como la **sandbox** y el **gestor de seguridad**.
+- **API y bibliotecas**: Ofrece una rica API y una vasta gama de bibliotecas de código abierto.
+- **Comunidad y ecosistema**: Una comunidad activa que proporciona multitud de recursos, tutoriales y soporte.
 
-- **Seguridad**: Diseñado con características de seguridad como Java sandbox y un gestor de seguridad que aplica políticas de seguridad.
+---
 
-- **API y bibliotecas**: Cuenta con una rica API y vastas bibliotecas de código abierto que proporcionan a los desarrolladores amplias funcionalidades.
+## **Ventajas y Desventajas**
 
-- **Comunidad y ecosistema**: Una comunidad activa y amplia, con numerosos recursos, tutoriales y foros disponibles para ayudar a los desarrolladores.
+### **Ventajas**
+- **Multiplataforma**: Funciona en diferentes sistemas operativos.
+- **Lenguaje robusto**: Seguro y capaz de ejecutarse en distintos entornos.
+- **Eficiencia**: Combina interpretación y compilación, mejorando el rendimiento de ejecución.
 
-## Ejemplos de uso (Web o servicios que utilicen Java en el back-end)
+### **Desventajas**
+- **Dificultad**: Es considerado un lenguaje difícil como primer lenguaje de aprendizaje.
+- **Rendimiento**: En ciertas situaciones, su rendimiento no es óptimo en comparación con otros lenguajes.
+- **Evolución lenta**: Su evolución ha sido más pausada que la de lenguajes más modernos.
+
+---
+
+## **Usos Comunes de Java**
+
+Java es un lenguaje universal utilizado para una amplia gama de aplicaciones:
+
+- **Aplicaciones empresariales**: Sistemas de gestión de relaciones con clientes (CRM), sistemas de planificación de recursos empresariales (ERP), y más.
+- **Aplicaciones móviles**: Desarrollo de aplicaciones para Android.
+- **Aplicaciones web**: Servidores web, servidores de aplicaciones.
+- **Juegos**: Desarrollo de videojuegos.
+- **Aplicaciones científicas y financieras**.
+
+---
+
+## **Ejemplos de Uso en la Industria**
+
+Java es utilizado por grandes compañías tecnológicas para el back-end de sus plataformas:
+
 - **LinkedIn**
 - **Netflix**
-- **X**
-- **eBay**
+- **X (anteriormente Twitter)**
+- **Ebay**
 - **Minecraft**
+
   
 ### C#
 

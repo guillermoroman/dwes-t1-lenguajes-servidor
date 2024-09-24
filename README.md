@@ -1,13 +1,4 @@
 # dwes-t1-lenguajes-servidor
-
-### PHP
-
-### Node.JS
-
-### Python
-
-### Ruby
-
 # **Java**
 
 **Alejandro Santos Villabona**  
@@ -81,12 +72,3 @@ Java es utilizado por grandes compañías tecnológicas para el back-end de sus 
 - **X (anteriormente Twitter)**
 - **Ebay**
 - **Minecraft**
-
-  
-### C#
-
-### Go
-
-### Perl
-
-### Rust
